@@ -35,6 +35,7 @@ print(lenguaje.startswith("A"))
 lenguaje_slice = lenguaje[0:6:2]
 
 reversed_lenguaje = lenguaje[:: -1]
-#print(lenguaje_slice)
+print(lenguaje_slice)
+print(reversed_lenguaje)
 
 
